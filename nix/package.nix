@@ -8,6 +8,6 @@ let
 in
 
 writers.writePython3Bin "pass39" {} (substituteAll {
-  src = ./pass39.py;
+  src = ../pass39.py;
   inherit english_word_list;
 })
