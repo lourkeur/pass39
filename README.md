@@ -8,3 +8,6 @@ And since the list is designed so that no two words start with the same 4 charac
 we can shorten them and stick them together to mimimize keystrokes without loss of entropy.
 
 [BIP0039]: https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki
+
+## Example
+One possible result is `dogridelibrlabewhen`. The words are *dog, ride, library, label,* and *when.*
